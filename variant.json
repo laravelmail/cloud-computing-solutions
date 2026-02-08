@@ -13,6 +13,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -26,6 +27,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601085895-ordinary-life-scene-from-mall-america_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 600px;\" title=\"image\" width=\"600\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -56,7 +58,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601085895-ordinary-life-scene-from-mall-america_201.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601085895-ordinary-life-scene-from-mall-america_201.png",
                     "width": 600,
                     "height": "auto"
                   }
@@ -66,6 +68,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -114,6 +117,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -168,23 +172,25 @@
           {
             "contents": [
               {
-                "type": "heading",
+                "type": "text",
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
-                    "htmlID": "u_content_heading_1",
-                    "htmlClassNames": "u_content_heading"
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
                   },
                   "selectable": true,
                   "draggable": true,
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #00171f;height: 100%;width: 100% !important;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px 50px;font-family:'Raleway',sans-serif;\">Claim Your Exclusive Discounts on Premium Medical Equipment Today</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
@@ -224,6 +230,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -275,6 +282,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -288,6 +296,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"background-color: #00171f;height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_8\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:30px 10px 10px;font-family:'Raleway',sans-serif;\">Dear Esteemed Healthcare Professional, we are thrilled to present you with exclusive savings on our premium medical equipment line. Elevate your facility's capabilities now!</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
@@ -327,6 +336,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -375,6 +385,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -434,6 +445,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -447,6 +459,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601372191-Group_203.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -477,7 +490,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601372191-Group_203.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601372191-Group_203.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -488,6 +501,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -501,6 +515,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_4\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Raleway',sans-serif;\">Engineered for Endurance: Our Medical Equipment Stands the Test of Time</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -541,6 +556,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -554,6 +570,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_6\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px 10px 10px;font-family:'Raleway',sans-serif;\">Attention Healthcare Partner, don't miss out on our limited-time offer for top-quality medical equipment!</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -593,6 +610,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -644,6 +662,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -657,6 +676,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601535665-Group_204.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -687,7 +707,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601535665-Group_204.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601535665-Group_204.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -698,6 +718,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -711,6 +732,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_5\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Raleway',sans-serif;\">Innovative Solutions: Stay Ahead with Our State-of-the-Art Medical Equipment</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -751,6 +773,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -764,6 +787,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_7\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px 10px 10px;font-family:'Raleway',sans-serif;\">Customized Offerings: Tailor-made Discounts on Premium Medical Equipment for Your Healthcare Institution</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -803,6 +827,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -854,6 +879,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -867,6 +893,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_image_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601538985-Group_205.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -897,7 +924,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601538985-Group_205.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601538985-Group_205.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -908,6 +935,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -921,6 +949,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_2\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 10px 0px;font-family:'Raleway',sans-serif;\">Affordable Excellence: High-Quality Medical Equipment at Reduced Prices</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -961,6 +990,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -974,6 +1004,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px 10px 30px;font-family:'Raleway',sans-serif;\">Welcome Exclusive Discounts: Premium Medical Equipment Offered to Our Valued Healthcare Partners</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1013,6 +1044,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -1061,6 +1093,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -1114,23 +1147,25 @@
           {
             "contents": [
               {
-                "type": "heading",
+                "type": "text",
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
                   "displayCondition": null,
                   "_meta": {
-                    "htmlID": "u_content_heading_1",
-                    "htmlClassNames": "u_content_heading"
+                    "htmlID": "u_content_text_1",
+                    "htmlClassNames": "u_content_text"
                   },
                   "selectable": true,
                   "draggable": true,
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 0px;font-family:'Raleway',sans-serif;\">Claim Your Exclusive Discounts on Premium Medical Equipment Today</td>\n</tr>\n</tbody>\n</table></div>\n<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px 10px 20px;font-family:'Raleway',sans-serif;\">Healthcare Professional, Upgrade Your Facility with Our Special Discounts on Extensive Medical Equipment</td>\n</tr>\n</tbody>\n</table></div>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
@@ -1170,6 +1205,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -1218,6 +1254,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -1276,6 +1313,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1289,6 +1327,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601770132-Group_206.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 357.02px;\" title=\"image\" width=\"357.02\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1319,7 +1358,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601770132-Group_206.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601770132-Group_206.png",
                     "width": 357,
                     "height": "auto"
                   }
@@ -1329,6 +1368,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -1380,6 +1420,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1393,6 +1434,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:5px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601793311-Group_207.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 222.98px;\" title=\"image\" width=\"222.98\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1423,7 +1465,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601793311-Group_207.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601793311-Group_207.png",
                     "width": 222,
                     "height": "auto"
                   }
@@ -1434,6 +1476,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1447,6 +1490,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:4px 5px 0px;font-family:'Raleway',sans-serif;\">\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" width=\"100%\">\n<tbody><tr>\n<td align=\"center\" class=\"v-text-align\" style=\"padding-right: 0px;padding-left: 0px;\">\n<img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721601814452-Group_208.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 222.98px;\" title=\"image\" width=\"222.98\">\n</td>\n</tr>\n</tbody></table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1477,7 +1521,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721601814452-Group_208.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721601814452-Group_208.png",
                     "width": 222,
                     "height": "auto"
                   }
@@ -1487,6 +1531,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -1535,6 +1580,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -1593,6 +1639,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1606,6 +1653,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"v-col-background-color\" style=\"height: 100%;width: 100% !important;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\">\n<!--[if (!mso)&(!IE)]><!--><div class=\"v-col-border\" style=\"box-sizing: border-box; height: 100%; padding: 0px;border-top: 0px solid transparent;border-left: 0px solid transparent;border-right: 0px solid transparent;border-bottom: 0px solid transparent;border-radius: 0px;-webkit-border-radius: 0px; -moz-border-radius: 0px;\"><!--<![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_heading_3\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:50px 10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<!--[if mso]><table width=\"100%\"><tr><td><![endif]-->\n<h1 class=\"v-text-align v-line-height v-font-size\" style=\"margin: 0px; line-height: 120%; text-align: left; word-wrap: break-word; font-family: Epilogue; font-size: 24px; font-weight: 400;\">Save Big on Medical Equipment Today</h1>\n<!--[if mso]></td></tr></table><![endif]-->\n</td>\n</tr>\n</tbody>\n</table>\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px 10px 10px 20px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #6a6a6a; line-height: 140%; text-align: left; word-wrap: break-word;\">Hello [Recipient Name], we are thrilled to present you with exclusive savings on our premium medical equipment lineup, tailored for healthcare professionals like you.</div>\n</td>\n</tr>\n</tbody>\n</table>\n<!--[if (!mso)&(!IE)]><!--></div><!--<![endif]-->\n</div>",
                   "size": {
                     "autoWidth": true,
                     "width": "100%"
@@ -1645,6 +1693,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -1696,6 +1745,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1709,6 +1759,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><img align=\"center\" alt=\"image\" border=\"0\" class=\"v-src-width v-src-max-width\" src=\"/static/templates/cloud-computing-solutions/assets/1721602189623-Group_201.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: inline-block !important;border: none;height: auto;float: none;width: 100%;max-width: 180px;\" title=\"image\" width=\"180\"></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1739,7 +1790,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/1721602189623-Group_201.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/1721602189623-Group_201.png",
                     "width": 180,
                     "height": "auto"
                   }
@@ -1749,6 +1800,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -1797,6 +1849,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -1828,7 +1881,7 @@
           "textColor": "",
           "backgroundColor": "",
           "backgroundImage": {
-            "url": "url(assets/1721602063426-Group_209.png)",
+            "url": "/static/templates/cloud-computing-solutions/assets/1721602063426-Group_209.png",
             "fullWidth": false,
             "repeat": false,
             "center": true,
@@ -1854,6 +1907,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1867,6 +1921,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_social_1\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:60px 10px 10px;font-family:'Raleway',sans-serif;\">\n<div align=\"center\" style=\"direction: ltr;\">\n<div style=\"display: table; max-width:167px;\">\n<!--[if (mso)|(IE)]><table width=\"167\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\"><tr><td style=\"border-collapse:collapse;\" align=\"center\"><table width=\"100%\" cellpadding=\"0\" cellspacing=\"0\" border=\"0\" style=\"border-collapse:collapse; mso-table-lspace: 0pt;mso-table-rspace: 0pt; width:167px;\"><tr><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_0c984410.bin\" target=\"_blank\" title=\"Facebook\">\n<img alt=\"Facebook\" src=\"/static/templates/cloud-computing-solutions/assets/facebook.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Facebook\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_29d720c9.bin\" target=\"_blank\" title=\"LinkedIn\">\n<img alt=\"LinkedIn\" src=\"/static/templates/cloud-computing-solutions/assets/linkedin.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"LinkedIn\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 10px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 10px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_9fd8adc6.bin\" target=\"_blank\" title=\"Instagram\">\n<img alt=\"Instagram\" src=\"/static/templates/cloud-computing-solutions/assets/instagram.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"Instagram\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]><td width=\"32\" style=\"width:32px; padding-right: 0px;\" valign=\"top\"><![endif]-->\n<table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"32\" style=\"width: 32px !important;height: 32px !important;display: inline-block;border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;margin-right: 0px\" width=\"32\">\n<tbody><tr style=\"vertical-align: top\"><td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top\" valign=\"middle\">\n<a href=\"assets/asset_de62a5c7.bin\" target=\"_blank\" title=\"X\">\n<img alt=\"X\" src=\"/static/templates/cloud-computing-solutions/assets/x.png\" style=\"outline: none;text-decoration: none;-ms-interpolation-mode: bicubic;clear: both;display: block !important;border: none;height: auto;float: none;max-width: 32px !important\" title=\"X\" width=\"32\">\n</a>\n</td></tr>\n</tbody></table>\n<!--[if (mso)|(IE)]></td><![endif]-->\n<!--[if (mso)|(IE)]></tr></table></td></tr></table><![endif]-->\n</div>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1897,7 +1952,7 @@
                   "hideDesktop": false,
                   "containerPadding": "",
                   "src": {
-                    "url": "assets/facebook.png",
+                    "url": "/static/templates/cloud-computing-solutions/assets/facebook.png",
                     "width": 32,
                     "height": "auto"
                   }
@@ -1908,6 +1963,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1921,6 +1977,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" id=\"u_content_text_10\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:10px 100px 30px;font-family:'Raleway',sans-serif;\">\n<div class=\"v-text-align v-line-height v-font-size\" style=\"font-size: 14px; color: #95a5a6; line-height: 170%; text-align: center; word-wrap: break-word;\">\n<p style=\"line-height: 170%;\"><a href=\"{{unsubscribe_url}}\">UNSUBSCRIBE</a> &nbsp; | &nbsp; <a href=\"{{privacy_url}}\">PRIVACY POLICY</a> &nbsp; | &nbsp; <a href=\"{{webview_url}}\">WEB</a></p>\n<p style=\"line-height: 170%;\">&nbsp;</p>\n<p style=\"line-height: 170%;\">Unlock exceptional savings on top-tier medical equipment. Act now to secure your exclusive offer!</p>\n</div>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -1961,6 +2018,7 @@
                 "values": {
                   "color": "",
                   "headingType": "",
+                  "fontFamily": {},
                   "fontSize": "",
                   "textAlign": "",
                   "lineHeight": "",
@@ -1974,6 +2032,7 @@
                   "duplicatable": true,
                   "deletable": true,
                   "hideable": false,
+                  "text": "<div class=\"unlayer2be\"><table border=\"0\" cellpadding=\"0\" cellspacing=\"0\" role=\"presentation\" style=\"font-family:'Raleway',sans-serif;\" width=\"100%\">\n<tbody>\n<tr>\n<td align=\"left\" class=\"v-container-padding-padding\" style=\"overflow-wrap:break-word;word-break:break-word;padding:0px;font-family:'Raleway',sans-serif;\">\n<table align=\"center\" border=\"0\" cellpadding=\"0\" cellspacing=\"0\" height=\"0px\" style=\"border-collapse: collapse;table-layout: fixed;border-spacing: 0;mso-table-lspace: 0pt;mso-table-rspace: 0pt;vertical-align: top;border-top: 1px solid #BBBBBB;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\" width=\"100%\">\n<tbody>\n<tr style=\"vertical-align: top\">\n<td style=\"word-break: break-word;border-collapse: collapse !important;vertical-align: top;font-size: 0px;line-height: 0px;mso-line-height-rule: exactly;-ms-text-size-adjust: 100%;-webkit-text-size-adjust: 100%\">\n<span>&nbsp;</span>\n</td>\n</tr>\n</tbody>\n</table>\n</td>\n</tr>\n</tbody>\n</table></div>",
                   "size": {
                     "autoWidth": true,
                     "width": ""
@@ -2013,6 +2072,7 @@
             "values": {
               "color": "",
               "headingType": "",
+              "fontFamily": {},
               "fontSize": "",
               "textAlign": "",
               "lineHeight": "",
@@ -2061,6 +2121,7 @@
         "values": {
           "color": "",
           "headingType": "",
+          "fontFamily": {},
           "fontSize": "",
           "textAlign": "",
           "lineHeight": "",
@@ -2110,6 +2171,7 @@
     "values": {
       "color": "rgb(0, 0, 0)",
       "headingType": "",
+      "fontFamily": {},
       "fontSize": "",
       "textAlign": "",
       "lineHeight": "",
@@ -2158,10 +2220,10 @@
     "u_column": 12,
     "u_row": 7,
     "u_content_button": 0,
-    "u_content_heading": 3,
-    "u_content_text": 9,
+    "u_content_heading": 1,
+    "u_content_text": 11,
     "u_content_image": 9,
     "u_content_menu": 0
   },
-  "schemaVersion": 7
+  "schemaVersion": 16
 }
